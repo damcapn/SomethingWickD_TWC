@@ -1,34 +1,41 @@
-body {
-  background-image: url("/SomethingWickD_TWC/myCreations/SMTHNwckd/PicsArt_1441086735950.jpg");
-  background-repeat: no-repeat;
-  background-position: center;
-  padding-top: 0px;
-  padding-left: 50px;
-  padding-right: 50px;
-  padding-bottom: 20px;
-}
+
 .jumbotron {
-   background: url(PicsArt_1441086735950.jpg)
-   no-repeat center center;
+   background-image: url("lib/images/PicsArt_10-11-11.18.26.jpg");
+   /*image-repeat: no-repeat center center;*/
    background-size: cover;
    text-align: center;
    background-position: 10% 10%;
    height: 650px;
-   color: white;
+   color: red;
    font-size: 1.5em;
 }
 .navbar {
   align: top;
+  color: #EEE;
 }
+
 h1 {
-    align: top;
+    font-family: 'Indie Flower';
+    align: center;
+    color: #0ACDBB;
+}
+
+h2 {
+  font-family: 'Shadows Into Light';
+  color: #CD1900;
 }
 
 p {
   text-align: center;
   text-align: top;
-
 }
 
+.something {
+  margin-left: 500px;
+}
 
-www.facebook.com/SmthnGwcKDTWC
+body {
+  padding-top: 50px;
+  font-size: 70px;
+  color: #0ACDBB;
+}
