@@ -1,0 +1,64 @@
+
+.jumbotron {
+   background-image: url("../../lib/images/PicsArt_10-11-11.18.26.jpg");
+   /*image-repeat: no-repeat center center;*/
+   background-size: cover;
+   text-align: center;
+   background-position: 10% 10%;
+   height: 650px;
+   color: red;
+   font-size: 1.5em;
+}
+
+nav {
+  font-family: 'Indie Flower';
+}
+
+h1 {
+
+    font-family: 'Indie Flower';
+    align: center;
+    color: #0ACDBB;
+}
+
+h2 {
+  font-family: 'Shadows Into Light';
+  color: #CD1900;
+}
+
+p {
+  text-align: center;
+  text-align: top;
+}
+
+.something {
+  margin-left: 500px;
+}
+
+body {
+  background-image: url("../../lib/images/binary101.jpg");
+  image-repeat: no-repeat center center;
+  background-size: cover;
+  text-align: center;
+  background-position: 10% 10%;
+  height: 650px;
+  padding-top: 100px;
+
+  color: red;
+}
+
+.navText li{
+  font-size: 1.2em !important;
+  color: green !important;
+}
+
+a [i] {
+  font-size: 5em !important;
+  color: red !important;
+}
+
+h3 {
+  font-family: 'Dancing Script';
+  font-size: 2.75em;
+  color: black;
+}
