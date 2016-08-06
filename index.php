@@ -7,6 +7,16 @@
     <title>Something Wick'D...this way comes</title>
     <?php require_once("headutils.php");?>
     <link href="lib/css/style.css" rel="stylesheet">
+
+    <style>
+    h1 [p]{
+      font-size: 3em;
+    }
+    h2 {
+      font: 1.5em;
+      font-family: 'Shadows Into Light';
+    }
+    </style>
   </head>
 
   <body>
@@ -19,7 +29,17 @@
          </h1>
       </div>
       <h1>Here lies the wicked...</h1>
-        <h2> A Gallery of Wicked Creations...</h2>
+
+      <div class="img">
+        <a target="_blank" href="Binary-code.jpg">
+          <img src="lib/images/Binary-code.jpg" alt="KOH" width="300" height="200">
+        </a>
+        <h2>
+        <div class="desc">imagination is the key to infinity</div>
+        </h2>
+      </div>
+
+
 
     </div>
 

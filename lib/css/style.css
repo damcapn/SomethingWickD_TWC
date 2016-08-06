@@ -15,7 +15,6 @@ nav {
 }
 
 h1 {
-
     font-family: 'Indie Flower';
     align: center;
     color: #0ACDBB;
@@ -29,10 +28,6 @@ h2 {
 p {
   text-align: center;
   text-align: top;
-}
-
-.something {
-  margin-left: 500px;
 }
 
 body {
