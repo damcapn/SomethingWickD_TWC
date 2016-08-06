@@ -106,11 +106,13 @@ div.desc {
       </p>
     </h3>
 
+    <h2> A Gallery of Wicked Creations...</h2>
+
    </div>
 <div class="container">
    <div class="img">
-     <a target="_blank" href="PicsArt_09-10-10.30.44.jpg">
-       <img src="lib/images/PicsArt_09-10-10.30.44.jpg" alt="KOH" width="300" height="200">
+     <a target="_blank" href="PicsArt_09-12-07.44.12_2.jpg">
+       <img src="lib/images/PicsArt_09-12-07.44.12_2.jpg" alt="KOH" width="300" height="200">
      </a>
      <div class="desc">Created by Cali</div>
    </div>
