@@ -16,8 +16,9 @@
           integrity="sha384-T8Gy5hrqNKT+hzMclPo118YTQO6cYprQmhrYwIiQ/3axmI1hQomh7Ud2hPOy8SP1"
           crossorigin="anonymous">
 
-
-
+    <link href="lib/css/style.css" rel="stylesheet">
+    <link href="lib/css/portfolio.css" rel="stylesheet">
+    <link href="lib/css/about.css" rel="stylesheet">
     <link rel"stylesheet" href="lib/css/animate.css"/>
 
     <link href='https://fonts.googleapis.com/css?family=Cinzel|Dancing+Script|Indie+Flower|Shadows+Into+Light' rel='stylesheet' type='text/css'>
