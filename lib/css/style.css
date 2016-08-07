@@ -10,6 +10,11 @@
    font-size: 1.5em;
 }
 
+.navText li{
+  font-size: 1.2em !important;
+  color: green !important;
+}
+
 nav {
   font-family: 'Indie Flower';
 }
@@ -25,35 +30,14 @@ h2 {
   color: #CD1900;
 }
 
-p {
-  text-align: center;
-  text-align: top;
-}
-
-body {
-  background-image: url("../../lib/images/binary101.jpg");
-  image-repeat: no-repeat center center;
-  background-size: cover;
-  text-align: center;
-  background-position: 10% 10%;
-  height: 650px;
-  padding-top: 100px;
-
-  color: red;
-}
-
-.navText li{
-  font-size: 1.2em !important;
-  color: green !important;
-}
-
 a [i] {
   font-size: 5em !important;
   color: red !important;
 }
 
 h3 {
-  font-family: 'Dancing Script';
-  font-size: 2.75em;
-  color: black;
+  text-align: bottom;
+  font-family: 'Indie Flower';
+  font-size: 1.75em;
+  color: red;
 }
